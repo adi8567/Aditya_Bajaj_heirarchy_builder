@@ -1,5 +1,5 @@
 export const sendData = async (data) => {
-  const res = await fetch("http://localhost:5000/bfhl", {
+  const res = await fetch("https://aditya-bajaj-heirarchy-builder.onrender.com/bfhl", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
