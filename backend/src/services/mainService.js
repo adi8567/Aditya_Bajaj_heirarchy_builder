@@ -57,8 +57,6 @@ export const processData = (data) => {
       });
     }
   }
-
-  // ✅ CLEAN SUMMARY CALCULATION
   const summary = generateSummary(hierarchies);
 
   return {
