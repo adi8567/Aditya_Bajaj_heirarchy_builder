@@ -107,6 +107,8 @@ App runs on `http://localhost:5173`
 ## Usage
 
 Enter edges in the input box as a comma-separated list:
+Frontend URL: https://aditya-bajaj-heirarchy-builder.vercel.app/
+Backend URL: https://aditya-bajaj-heirarchy-builder.onrender.com
 
 ```
 A->B, A->C, B->D, C->E
